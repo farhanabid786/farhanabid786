@@ -13,7 +13,8 @@
   I am looking to colabrate on AI/ ML projects.
   To connect with me , email me at 
  <h5> abidali786babu@gmail.com</h5>
-</body></html>.
+</body>
+</html>
 <!---
 farhanabid786/farhanabid786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
