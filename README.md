@@ -1,10 +1,4 @@
 <html>
-  <title>
-    INTRODUCTION
-  </title>
-  <head>
-    color background = "blue"
-  </head>
 <body>
 <p>Hello! I am <b>Farhan Abid </b>, a passionate and dedicated B.Tech Computer Science and Engineering (AI) student currently in my third year at BBD University, Lucknow. I am enthusiastic about exploring the exciting world of artificial intelligence and its applications. With a keen interest in technology, I am always eager to learn and contribute to innovative projects.
   I am interested in exploring new tools and development research in the field of technology.
