@@ -6,7 +6,7 @@
   I am working in the fields of Data Science .
   I am looking to colabrate on AI/ ML projects.
   To connect with me , email me at 
- <h5> abidali786babu@gmail.com</h5>
+ <h5> farhanabidclass12@gmail.com</h5>
 </body>
 </html>
 <!---
