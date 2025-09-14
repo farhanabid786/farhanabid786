@@ -59,7 +59,7 @@ A predictive model that analyzes clinical data to assess heart failure risk. Dep
 
 | 🔗 Platform | Link |
 |------------|------|
-| LinkedIn | [linkedin.com/in/farhan-abid-8001a9253](www.linkedin.com/in/farhan-abid-8001a9253) |
+| LinkedIn | [linkedin.com/in/farhan-abid-8001a9253](https://www.linkedin.com/in/farhan-abid-8001a9253) |
 | Email | [farhanabidclass12@gmail.com](mailto:farhanabidclass12@gmail.com) |
 
 ---
