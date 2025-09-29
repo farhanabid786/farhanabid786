@@ -29,7 +29,7 @@ AI-powered recommendation system that leverages vector search, sentiment analysi
 ---
 
 ### 🧠 AI-Powered PDF Chatbot
-[🔗 View Project](https://github.com/farhanabid786/AI-PDF-Chatbot)  
+[🔗 View Project](https://github.com/farhanabid786/AI-Powered-Chitti)  
 An intelligent chatbot built using NVIDIA's Llama API & LangChain, capable of answering questions from multiple uploaded PDFs. Supports conversational memory and displays chat history interactively.
 
 ---
