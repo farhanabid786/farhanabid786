@@ -24,7 +24,8 @@ I’m a **B.Tech Computer Science & Engineering (AI)** final-year student at **B
 
 ### AgriYield Predictor
 [🔗 View Project](https://github.com/springboardmentor789r/AgriYield)
-Random Forest–based crop yield prediction web app (95%+ accuracy) with time-series forecasting (76%), developed during the Infosys Springboard virtual internship.
+
+End-to-end machine learning web application that predicts crop yield using a Random Forest–based crop yield prediction(95%+ accuracy) with time-series forecasting (76%) to estimate future agricultural trends, developed during the Infosys Springboard virtual internship.
 
 ---
 
