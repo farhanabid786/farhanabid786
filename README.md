@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farhan Abid
 
-### 🚀 Aspiring AI Engineer | ML Enthusiast | Problem Solver
+### 🚀 Aspiring AI Engineer | Data Science Enthusiast | Problem Solver
 
 I’m a **B.Tech Computer Science & Engineering (AI)** final-year student at **Babu Banarasi Das University, Lucknow**, passionate about leveraging **Artificial Intelligence**, **Machine Learning**, and **Data Science** to build innovative solutions that solve real-world problems.
 
