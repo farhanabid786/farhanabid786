@@ -22,9 +22,9 @@ I’m a **B.Tech Computer Science & Engineering (AI)** final-year student at **B
 
 ## 🌟 Featured Projects
 
-### 📚 Book Recommender System
-[🔗 View Project](https://github.com/farhanabid786/Book-Recommender-System)  
-AI-powered recommendation system that leverages vector search, sentiment analysis, and zero-shot classification to provide personalized book recommendations based on user queries.
+### AgriYield Predictor
+[🔗 View Project](https://github.com/springboardmentor789r/AgriYield)
+Random Forest–based crop yield prediction web app (95%+ accuracy) with time-series forecasting (76%), developed during the Infosys Springboard virtual internship.
 
 ---
 
