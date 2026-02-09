@@ -13,8 +13,8 @@ I’m a **B.Tech Computer Science & Engineering (AI)** final-year student at **B
 | Python 🐍 | LangChain, FAISS |
 | Machine Learning 🤖 | Hugging Face Transformers, Scikit-learn |
 | Deep Learning 🔬 | TensorFlow, PyTorch |
-| APIs & Integration 🌐 | NVIDIA API, OpenAI API, Google Gemini |
-| Web Development 🌐 | Streamlit, Flask, Gradio |
+| APIs & Integration 🌐 | fastAPI, NVIDIA API, OpenAI API, Google Gemini |
+| Web Development 🌐 | HTML5, CSS, Javascript, React, Streamlit, Flask, Gradio |
 | Data Handling 📊 | Pandas, NumPy, SQLite |
 | Version Control 💾 | Git & GitHub |
 
