@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farhan Abid
+# 👋 Hello, I'm Farhan Abid
 
 ### 🚀 Aspiring AI Engineer | Data Science Enthusiast | Problem Solver
 
