@@ -27,22 +27,13 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-</div>
-
-<br/>
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanabid786&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=farhanabid786&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanabid786&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanabid786&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
