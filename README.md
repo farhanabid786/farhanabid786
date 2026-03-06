@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
