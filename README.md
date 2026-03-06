@@ -155,6 +155,8 @@
 
 <div align="center">
 
+### feel free to connect!
+
 ### ⭐ If you like my work, don't forget to star some repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
