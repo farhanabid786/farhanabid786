@@ -31,14 +31,15 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
 <br/>
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanabid786&theme=tokyonight&hide_border=true"/>
