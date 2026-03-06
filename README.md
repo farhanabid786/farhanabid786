@@ -166,25 +166,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=farhanabid786&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-# 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=farhanabid786&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 # 👀 Profile Views
 
