@@ -8,7 +8,7 @@
 
 ### AI Engineer • Machine Learning Developer • Data Science Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Always+Learning+%26+Experimenting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems;Always+Learning+%26+Experimenting)](https://git.io/typing-svg)
 
 </div>
 
