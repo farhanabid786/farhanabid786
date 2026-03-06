@@ -1,69 +1,213 @@
-# 👋 Hello, I'm Farhan Abid
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</div>
 
-### 🚀 Aspiring AI Engineer | Data Science Enthusiast | Problem Solver
+<div align="center">
 
-I’m a **B.Tech Computer Science & Engineering (AI)** final-year student at **Babu Banarasi Das University, Lucknow**, passionate about leveraging **Artificial Intelligence**, **Machine Learning**, and **Data Science** to build innovative solutions that solve real-world problems.
+# Hi, I'm Farhan Abid 👋
 
----
+### AI Engineer • Machine Learning Developer • Data Science Enthusiast
 
-## 🛠️ My Expertise
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems;Always+Learning+%26+Experimenting)](https://git.io/typing-svg)
 
-| ⚡ Tech Stack | 🔧 Tools & Libraries |
-|-------------|----------------------|
-| Python 🐍 | LangChain, FAISS |
-| Machine Learning 🤖 | Hugging Face Transformers, Scikit-learn |
-| Deep Learning 🔬 | TensorFlow, PyTorch |
-| APIs & Integration 🌐 | fastAPI, NVIDIA API, OpenAI API, Google Gemini |
-| Web Development 🌐 | HTML5, CSS, Javascript, React, Streamlit, Flask, Gradio |
-| Data Handling 📊 | Pandas, NumPy, SQLite |
-| Version Control 💾 | Git & GitHub |
+</div>
 
 ---
 
-## 🌟 Featured Projects
+# 🌐 Connect With Me
 
-### AgriYield Predictor
-[🔗 View Project](https://github.com/springboardmentor789r/AgriYield)
+<p align="center">
 
-End-to-end machine learning web application that predicts crop yield using a Random Forest–based crop yield prediction(95%+ accuracy) with time-series forecasting (76%) to estimate future agricultural trends, developed during the Infosys Springboard virtual internship.
+<a href="https://farhanabidportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/farhan-abid-8001a9253">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🧠 AI-Powered PDF Chatbot
-[🔗 View Project](https://github.com/farhanabid786/AI-Powered-Chitti)  
-An intelligent chatbot built using NVIDIA's Llama API & LangChain, capable of answering questions from multiple uploaded PDFs. Supports conversational memory and displays chat history interactively.
+<a href="https://github.com/farhanabid786">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="mailto:f.abid.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ❤️ Heart Failure Prediction System
-[🔗 View Project](https://github.com/farhanabid786/Heart-Failure-Prediction)  
-A predictive model that analyzes clinical data to assess heart failure risk. Deployed as an interactive Flask web application.
+<a href="https://leetcode.com/u/code_with_py/">
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
 
----
+<a href="https://www.geeksforgeeks.org/profile/farhanabiucv1">
+<img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-## 📊 GitHub Stats
+<a href="https://www.kaggle.com/farhanabidtech786">
+<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanabid786&show_icons=true&hide_border=true&theme=radical)
-
----
-
-## 🎯 My Goals
-
-- 🚀 Build innovative solutions combining Data Science, ML, and NLP.
-- 🌍 Contribute to open-source projects.
-- 📚 Continue learning cutting-edge technologies in AI.
-- 🤝 Collaborate on impactful projects that solve global problems.
-
----
-
-## 📬 Let’s Connect
-
-| 🔗 Platform | Link |
-|------------|------|
-| LinkedIn | [linkedin.com/in/farhan-abid-8001a9253](https://www.linkedin.com/in/farhan-abid-8001a9253) |
-| Email | [f.abid.work@gmail.com](mailto:f.abid.work@gmail.com) |
-| Portfolio| [my portfolio](https://farhanabidportfolio.vercel.app/) |
+</p>
 
 ---
 
-✨ Thank you for visiting my GitHub profile. Feel free to connect or collaborate! 🚀
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=farhanabid786&theme=dark&hide_border=false"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanabid786&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Coding Profiles
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/code_with_py?theme=dark&ext=heatmap)](https://leetcode.com/u/code_with_py/)
+
+<br>
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/farhanabiucv1)
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 🧠 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=farhanabid786&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=farhanabid786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=farhanabid786&icon=0&color=0)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star the repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
