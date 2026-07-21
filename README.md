@@ -31,14 +31,9 @@
 
 <br/>
 
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=farhanabid786&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak Stats"
-/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farhanabid786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br/>
 
