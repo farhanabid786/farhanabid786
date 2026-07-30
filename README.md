@@ -37,6 +37,18 @@
 
 <br/>
 
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=farhanabid786&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br/>
+
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanabid786&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true"/>
