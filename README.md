@@ -32,14 +32,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanabid786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-<br/>
-
-<p align="center">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=farhanabid786&theme=tokyonight"
     alt="GitHub Streak"
