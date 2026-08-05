@@ -15,7 +15,7 @@ jobs:
         uses: jasineri/gitartwork@main  # Public action
         with:
           user_name: farhanabid786
-          text: FARHAN ABID
+          text: FARHAN
 
       - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
