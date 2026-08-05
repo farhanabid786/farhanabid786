@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-
 # Hi, I'm Farhan Abid 👋
 
 ### AI Engineer • Machine Learning Developer • Data Science Enthusiast
