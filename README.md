@@ -159,7 +159,7 @@
 
 </div>
 
-![Gitartwork](https://raw.githubusercontent.com/tubakhxn/tubakhxn/main/gitartwork.svg)
+![Gitartwork](https://raw.githubusercontent.com/farhanabid786/farhanabid786/main/gitartwork.svg)
 
 <div align="center">
 
