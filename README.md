@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Farhan%20Abid&fontAlign=50&fontAlignY=40&color=0:00C9FF,100:92FE9D&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Machine%20Learning%20Developer&descAlign=50&descAlignY=65"/>
 </div>
 
-
 <div align="center">
   
 # Hi, I'm Farhan Abid 👋
